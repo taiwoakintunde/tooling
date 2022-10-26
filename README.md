@@ -75,3 +75,4 @@ Default web root:
 
 Checking Jenkins if it's working 1
 Jenkins is fun
+yes
